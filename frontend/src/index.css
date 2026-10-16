@@ -1,8 +1,0 @@
-:root { font-family: Arial, sans-serif; color: #243247; background: #f5f7fa; font-synthesis: none; text-rendering: optimizeLegibility; -webkit-font-smoothing: antialiased; }
-* { box-sizing: border-box; }
-body { margin: 0; min-width: 320px; }
-button, input { font: inherit; }
-button { cursor: pointer; }
-button:disabled { opacity: .55; cursor: not-allowed; }
-button:focus-visible, input:focus-visible { outline: 3px solid #9bbcf8; outline-offset: 2px; }
-h1, h2, p { margin: 0; }
