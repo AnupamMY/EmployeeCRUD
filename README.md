@@ -36,3 +36,6 @@ Open http://localhost:5173. Keep both terminals running.
 - Job role: required, up to 32 characters.
 
 Keep your `.env` file private.
+
+Git repo link 
+https://github.com/AnupamMY/EmployeeCRUD.git
